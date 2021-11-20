@@ -15,9 +15,9 @@ Contact Me via :- deepakdnimbalkar@gmail.com
 
 | Skill | Technologies worked on  |
 | --- | --- |
-| Programming | Python, Java, C, C++, HTML |
+| Programming | Python, Java, C, C++, Flask, Django, HTML |
 | Database | MySQL, MongoDB, MongoDBAtlas |
-| Tools/ IDE | PyCharm, VSCode, Jupyter Notebook |
+| Tools/ IDE | PyCharm, VSCode, Jupyter Notebook, google Colab |
 | Machine Learning | EDA, ML-Algorithms, Execution with Python |
 | Deep Learning | Neural Network, Computer Vision, Transfer Learning, Execution with python  |
 | Natural Language Processing | Neural Network, Transfer Learning, Execution with python |
@@ -25,7 +25,14 @@ Contact Me via :- deepakdnimbalkar@gmail.com
 | Operating System | Windows, Linux |
 | Version Control | GIT |
 
+### Skill Elaboration
 
+| Skill | Technologies used to worked or Known  |
+| --- | --- |
+| Python | Numpy, Pandas, sklearn, matplotlib, seaborn, pickle, keras, OpenCV, Tensorflow, Pytorch |
+| Machine Learnig | Linear Regression, Logistic Regression, Decision Tree, Support Vector Machine, Ensemble technique, Hyper Parameter tunning |
+| Deep Learning | Artificial Neural Network, Convolutional Neural Network, Recurrent Neural Network |
+| Natural Language Processing | Encoder-Decoder, Self Attention, Transformer, transfer learning model |
 
 <!--
 **deepak-nimbalkar/deepak-nimbalkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
