@@ -3,7 +3,7 @@
 
 ### Greetings Respected Viewers 👋
 
-This is ***Deepak Nimbalkar*** and I am a Data Science enthusiast. I have insights into ***Machine Learning, Deep Learning and 
+This is ***Deepak Nimbalkar*** and I am a Data Science enthusiast. I have insights into ***Machine Learning and 
 Natural Language Processing*** and I am extending myself towards ***Data Engineering and cloud*** to achieve a level of ***Full-Stack Data Science.*** I live in Pune, India. 
 Anyone can find me on: 
 
