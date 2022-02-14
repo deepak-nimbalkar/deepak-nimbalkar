@@ -30,7 +30,6 @@ Contact Me via :- deepakdnimbalkar@gmail.com
 | --- | --- |
 | Python | Numpy, Pandas, sklearn, matplotlib, seaborn, pickle, keras, OpenCV, Tensorflow, Pytorch |
 | Machine Learnig | Linear Regression, Logistic Regression, Decision Tree, Support Vector Machine, Ensemble technique, Hyper Parameter tunning |
-| Deep Learning | Artificial Neural Network, Convolutional Neural Network, Recurrent Neural Network |
 | Natural Language Processing | Encoder-Decoder, Self Attention, Transformer, transfer learning model |
 
 <!--
