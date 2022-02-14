@@ -19,7 +19,6 @@ Contact Me via :- deepakdnimbalkar@gmail.com
 | Database | MySQL, MongoDB, MongoDBAtlas |
 | Tools/ IDE | PyCharm, VSCode, Jupyter Notebook, google Colab |
 | Machine Learning | EDA, ML-Algorithms, Execution with Python |
-| Deep Learning | Neural Network, Computer Vision, Transfer Learning, Execution with python  |
 | Natural Language Processing | Neural Network, Transfer Learning, Execution with python |
 | Cloud | AWS, GCP, Azure, Heroku |
 | Operating System | Windows, Linux |
